@@ -9,5 +9,7 @@ REMODEL Project - Tactile Sensor
     * 02_PIC: PIC FW project for Microchip MPLAB IDE
 
 * 02_HW:
+    * 01_PowerSupplyPCB: Eagle board design of the Power Supply electronics
+    * 02_SensingPCB: Eagle board desing of the Sensing electronics
 
-* 03_MECH:
+* 03_MECH: .stl CAD models of tactile sensor mechanical parts
